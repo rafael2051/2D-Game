@@ -1,7 +1,7 @@
 # 2D Game
 
                                                                                      
-This is my first 2D game. I'm currently learning hot to                         
+This is my first 2D game. I'm currently learning how to                         
 develop games in C++ using the SDL library. This was made                       
 with sublime-text. To run the game, open bin/Debug directory                    
 inside the folder of the game, and open main.exe. There is                      

@@ -1,5 +1,7 @@
 # 2D Game
 
+## Author: Rafael Moura de Almeida
+## e-mail: rafael.moura.almeida@usp.br
                                                                                      
 ##### This is my first 2D game, still in development. 
 ##### I'm currently learning how to develop games in C++ using the SDL library. 
@@ -10,6 +12,3 @@
 ##### the "Physics 2D Platformer SDL" file. There you will be abble to see            
 ##### all the src and hpp files, and you can modify the code if you want and          
 ##### build the application with the new changes.
-
-Author: Rafael Moura de Almeida
-e-mail: rafael.moura.almeida@usp.br

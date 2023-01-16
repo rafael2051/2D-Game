@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/Physics 2D Platformer SDL.sublime-project",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/src/main.cpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/src/math.cpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/src/character.cpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/src/entity.cpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/src/collision.cpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/include/Utils.hpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/include/Math.hpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/include/Character.hpp",
+		"/C/Users/rafae/OneDrive/Área de Trabalho/Physics 2D Platformer SDL/src/renderwindow.cpp",
+		"/C/Users/rafae/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/Users/rafae/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Linux).sublime-keymap",
+		"/C/Users/rafae/Teste/IP/array.c",
+		"/C/Users/rafae/Teste/IP/ordena.c",
+		"/C/Users/rafae/Teste/IP/pessoa.c",
+		"/C/Users/rafae/Teste/IAA/maxminr.c",
+		"/C/Users/rafae/Teste/IAA/rsubmaxarray.c",
+		"/C/Users/rafae/Downloads/batma.c",
+		"/C/Users/rafae/Downloads/bat.c",
+		"/C/Users/rafae/OneDrive/Documentos/Ciência de dados",
+		"/C/Users/rafae/Teste/IP/palin.c",
+		"/C/Users/rafae/Teste/IP/trapezio.c",
+		"/C/Users/rafae/Teste/IP/somaMatriz.c",
+		"/C/Users/rafae/Teste/IP/buscabinr.c",
+		"/C/Users/rafae/Teste/IP/contador.c",
+		"/C/Users/rafae/Teste/polinomios.c",
+		"/C/Users/rafae/Teste/IP/matriz.c",
+		"/C/Users/rafae/Teste/contadorDeChar.c",
+		"/C/Users/rafae/Teste/Alunos.c",
+		"/C/Users/rafae/Teste/IP/teste.c",
+		"/C/Users/rafae/Teste/banco.c",
+		"/C/Users/rafae/Teste/IP/triangulo_invertido.c",
+		"/C/Users/rafae/Teste/germain.c",
+		"/C/Users/rafae/Teste/system.c",
+		"/C/Users/rafae/Teste/seq.c",
+		"/C/Users/rafae/Teste/hashtag.c",
+		"/C/Users/rafae/Teste/fgetc.c",
+		"/C/Users/rafae/Teste/fputs.c",
+		"/C/Users/rafae/Teste/fputc.c",
+		"/C/Users/rafae/Teste/fprintf.c",
+		"/C/Users/rafae/Teste/fgets.c",
+		"/C/Users/rafae/Teste/IP/carro.c",
+		"/C/Users/rafae/Teste/IP/ord.c",
+		"/C/Users/rafae/Teste/IP/struct.c",
+		"/C/Users/rafae/Teste/IP/bus.c",
+		"/C/Users/rafae/Teste/IP/char.c",
+		"/C/Users/rafae/Teste/ordem_crescente.c",
+		"/C/Users/rafae/Teste/soma_dos_algarismos.c",
+		"/C/Users/rafae/Teste/mdc_euclides.c",
+		"/C/Users/rafae/Teste/primeiros_impares.c",
+		"/C/Users/rafae/Teste/endereço.c",
+		"/C/Users/rafae/Teste/tipos.c",
+		"/C/Users/rafae/Teste/mdc.c",
+		"/C/Users/rafae/Teste/mmc.c",
+		"/C/Users/rafae/Teste/n_primo.c",
+		"/C/Users/rafae/Teste/llu.c",
+		"/C/Users/rafae/Teste/maior.c"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"25f",
+			"99f",
+			"Entity",
+			"playerPosition",
+			"get_position",
+			";\n",
+			"\n#",
+			"h",
+			"exe",
+			"();\n",
+			"+="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
